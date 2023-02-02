@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'KYC-development'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F8DF2B7344494DCBACA44CF2C0DBD6A1 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2923703A3A6645A8A1397783477247A0 }}
           package: .
